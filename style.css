@@ -1,0 +1,32 @@
+.container{
+    margin-bottom: 50px;
+}
+.top{
+    background-image: url(image/bg-1.png);
+    background-repeat: no-repeat;
+    background-position-x: center;
+    background-size: 77px 462px;
+}
+.bg-2{
+    background-image: url(image/bg-2.png);
+    background-repeat: no-repeat;
+}
+.card img{
+    padding: 50px;
+}
+.card-phone{
+    border: none;
+    border-radius: 5px;
+    box-shadow: 6px 6px 12px rgb(228, 231, 231);
+    
+}
+.buy-now{
+    border: none;
+    border-radius: 5px;
+    padding: 5px 17px;
+    background-color: rgb(22, 21, 21);
+    color: rgb(255, 255, 255);
+}
+h5{
+    font-weight: 700;
+}
